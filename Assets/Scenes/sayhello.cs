@@ -8,6 +8,7 @@ public class sayhello : MonoBehaviour
     void Start()
     {
         Debug.Log("Hello");
+        Debug.Log("Je suis Brendan");
     }
 
     // Update is called once per frame
